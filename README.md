@@ -24,7 +24,7 @@
 ### 🚀 Digital Ecosystem & Achievements
 
 - 🏆 **Academic Excellence:** Secured **1st Rank** in BCA 3rd Year at *Vision Institute of Science and Management*.
-- 📱 **Digital Influence:** **78.3K+ followers** on Instagram [@top_real_nadeem].
+- 📱 **Digital Influence:** **78.3K+ followers** on Instagram [@top_real_nadeem](https://www.instagram.com/top_real_nadeem).
 - 🎥 **YouTube Network:**
   - [Real Hero Nadeem](https://www.youtube.com/@RealHeroNadeem)
   - [Top Real Nadeem](https://www.youtube.com/@TopRealNadeem)
@@ -35,8 +35,6 @@
 ---
 
 ### 💻 Tech Stack Arsenal
-
-*(Everything from your original stack, categorized for a premium look)*
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -50,7 +48,7 @@
 
 ### 🏆 GitHub Trophies & Quotes
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nadeemxsalar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nadeemxsalar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -73,6 +71,15 @@
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Nadeemxsalar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repo" />
+</p>
+
+---
+
+### 🌍 Global Audience Tracker
+<p align="center">
+  <a href="https://github.com/Nadeemxsalar">
+    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=800&t=n&d=rbkTeUTqMLX5U5up0e6V1UJLou65Cuq493m2YgpvIAc&co=1a1b27&cmo=00FFEA&cmn=E4405F" alt="Live Visitor Map" />
+  </a>
 </p>
 
 ---
