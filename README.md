@@ -68,17 +68,12 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nadeemxsalar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </p>
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nadeemxsalar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repo" />
-</p>
-
 ---
 
 ### 🌍 Global Audience Tracker
 <p align="center">
-  <a href="https://github.com/Nadeemxsalar">
-    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=800&t=n&d=rbkTeUTqMLX5U5up0e6V1UJLou65Cuq493m2YgpvIAc&co=1a1b27&cmo=00FFEA&cmn=E4405F" alt="Live Visitor Map" />
+  <a href="https://clustrmaps.com/site/1c9rt" title="ClustrMaps">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=rbkTeUTqMLX5U5up0e6V1UJLou65Cuq493m2YgpvIAc&cl=ffffff&co=1a1b27&cmo=00FFEA&cmn=E4405F" alt="Live Visitor Map" />
   </a>
 </p>
 
