@@ -20,6 +20,9 @@ Hi there! 👋 I'm Nadeem, a passionate Full-stack Web Developer and Tech Conten
 ![](https://streak-stats.demolab.com/?user=Nadeemxsalar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nadeemxsalar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🐍 My GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Nadeemxsalar/Nadeemxsalar/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nadeemxsalar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
