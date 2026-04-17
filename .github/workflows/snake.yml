@@ -1,36 +1,31 @@
 name: generate animation
 
 on:
-  # har 24 ghante mein automatic chalega
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # manually bhi run kar sakte ho
+    - cron: "0 */24 * * *" # Har 24 ghante mein chalega
   workflow_dispatch:
-  
-  # jab bhi main branch par push karoge tab chalega
   push:
     branches:
     - main
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
-      # snake game generate karega
+      # Snake generate karega
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Nadeemxsalar
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # generated files ko 'output' branch mein push karega
+      # Generated files ko 'output' branch mein push karega
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/github-action-github-pages@v3.1.0
         with:
