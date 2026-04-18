@@ -34,15 +34,35 @@
 
 ---
 
+### 🛠️ Skill Mastery
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-90%25-00FFEA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-75%25-E4405F?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX-95%25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Content_Strategy-98%25-orange?style=flat-square" />
+</p>
+
+---
+
 ### 💻 Tech Stack Arsenal
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) |
-| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
+
+---
+
+### 📂 Featured Projects
+<p align="center">
+  <a href="https://github.com/Nadeemxsalar/realheronadeem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadeemxsalar&repo=realheronadeem&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Nadeemxsalar/NEXUS-Concepts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadeemxsalar&repo=NEXUS-Concepts&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -57,15 +77,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Nadeemxsalar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nadeemxsalar&theme=tokyonight&hide_border=false" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nadeemxsalar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Nadeemxsalar&theme=tokyonight&show_icons=true" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Nadeemxsalar&theme=tokyonight" height="175" />
 </p>
 
 ---
@@ -86,15 +102,22 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🤝 Let's Collaborate
+If you have a project idea or just want to discuss tech & growth, my doors are always open!
+
+<p align="left">
+  <a href="mailto:realheronadeem@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00FFEA?style=for-the-badge&logo=work&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/real-hero-nadeem"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🌐 Connect & Socials
 
 <p align="center">
-  <a href="https://linkedin.com/in/real-hero-nadeem"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/top_real_nadeem"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@RealHeroNadeem"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="https://instagram.com/top_real_nadeem"><img src="https://img.shields.io/badge/Instagram-78.3K-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@RealHeroNadeem"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://facebook.com/realheronadeem"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://pinterest.com/realheronadeem"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
-  <a href="mailto:realheronadeem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
