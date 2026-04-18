@@ -73,7 +73,7 @@
 ### 🌍 Global Audience Tracker
 <p align="center">
   <a href="https://clustrmaps.com/site/1c9rt" title="ClustrMaps">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=rbkTeUTqMLX5U5up0e6V1UJLou65Cuq493m2YgpvIAc&cl=ffffff&co=1a1b27&cmo=00FFEA&cmn=E4405F" alt="Live Visitor Map" />
+    <img src="https://www.clustrmaps.com/map_v2.png?d=rbkTeUTqMLX5U5up0e6V1UjLou65Cuq493m2YgpvIAc&cl=ffffff&co=1a1b27&cmo=00FFEA&cmn=E4405F" alt="Live Visitor Map" />
   </a>
 </p>
 
