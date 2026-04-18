@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFEA&height=200&section=header&text=Welcome%20to%20Nadeem's%20World&fontSize=40&fontColor=1a1b27&animation=twinkling" width="100%"/>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Nadeemxsalar?label=Followers&style=social&color=00FFEA" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Nadeemxsalar?label=Total%20Stars&style=social&color=00FFEA" alt="GitHub Stars" />
+</p>
+
 # Hi there! 👋 I'm Nadeem
 
 <p align="left">
@@ -14,12 +19,27 @@
 
 ### 🛡️ About Me
 
+<a href="https://github.com/Nadeemxsalar">
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMmh0aHJ2emZ5YWk0b2VwMmt2eXo3YTZmZHRzOG9oM2Rvdnh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QssGEmpkyEOhRVbLl1/giphy.gif" width="220" alt="Coding GIF" />
+</a>
+
 - 🚀 **Currently Working On:** [**NEXUS**](https://realheronadeem.netlify.app/) — *The Integrated Multi-Utility Web Ecosystem*, a unified platform for digital tools.
 - 👯 **Open to Collaboration:** Projects involving **Modern UI/UX**, **Glassmorphism**, and **React-based** applications.
 - 🤝 **Focus Area:** Advanced **System Design** and Cloud Scalability.
 - 🌱 **Learning Path:** Backend architectures while preparing for my **MCA entrance (June 2026)**.
 - 💬 **Ask Me About:** Full-stack Development, **Social Media Growth**, and Viral Content Strategies.
 - ⚡ **Fun Fact:** I secured **Rank #1** in my BCA 3rd year while growing a tech community to **78.3K+ followers**!
+
+<br/>
+
+---
+
+### 🌟 Featured Flagship Project
+<p align="center">
+  <a href="https://github.com/Nadeemxsalar/realheronadeem">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nadeemxsalar&repo=realheronadeem&theme=tokyonight" alt="Pinned Project" />
+  </a>
+</p>
 
 ---
 
@@ -67,7 +87,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Fun
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Nadeemxsalar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
@@ -76,6 +96,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nadeemxsalar&theme=tokyonight&hide_border=false" alt="Streak" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 </p>
 
 ---
@@ -92,6 +113,15 @@
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nadeemxsalar/Nadeemxsalar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### ☕ Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/realheronadeem">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Support%20my%20creations&emoji=🚀&slug=realheronadeem&button_colour=00FFEA&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" />
+  </a>
 </p>
 
 ---
