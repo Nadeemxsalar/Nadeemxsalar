@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFEA&height=200&section=header&text=Welcome%20to%20Nadeem's%20World&fontSize=40&fontColor=1a1b27&animation=twinkling" width="100%"/>
+
 # Hi there! 👋 I'm Nadeem
 
 <p align="left">
@@ -34,6 +36,13 @@
 
 ---
 
+### 💎 Core 3D Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,mongodb,mysql,git,github,docker,figma,vscode,vite&perline=7&theme=dark" alt="3D Skill Icons" />
+  </a>
+</p>
+
 ### 💻 Tech Stack Arsenal
 
 | Category | Tools & Technologies |
@@ -46,13 +55,14 @@
 
 ---
 
-### 🏆 GitHub Trophies & Quotes
+### ⚡ Live Coding Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nadeemxsalar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadeemxsalar&bg_color=1a1b27&color=00FFEA&line=00FFEA&point=E4405F&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://github-readme-recent-activity.vercel.app/api?username=Nadeemxsalar&bg_color=1a1b27&text_color=fff&title_color=00FFEA&icon_color=E4405F&border_color=1a1b27" alt="Recent Commits" />
 </p>
 
 ---
@@ -61,11 +71,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Nadeemxsalar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nadeemxsalar&theme=tokyonight&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nadeemxsalar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Langs Donut" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nadeemxsalar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=Nadeemxsalar&theme=tokyonight&hide_border=false" alt="Streak" />
 </p>
 
 ---
