@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFEA&center=false&vCenter=false&width=500&lines=Full-Stack+Web+Developer;Digital+Content+Creator+(78.3K+);Founder+of+NEXUS+Ecosystem;Academic+Rank+#1+in+BCA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFEA&center=false&vCenter=false&width=500&lines=Full-Stack+Web+Developer;Founder+of+aivox+ai;Digital+Content+Creator+(78.3K+);Founder+of+NEXUS+Ecosystem;Academic+Rank+#1+in+BCA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,6 +15,7 @@
 ### 🛡️ About Me
 
 - 🚀 **Currently Working On:** [**NEXUS**](https://realheronadeem.netlify.app/) — *The Integrated Multi-Utility Web Ecosystem*, a unified platform for digital tools.
+- 🧠 **Founder & Innovator:** Founder of **aivox ai** — *Building next-generation AI solutions.*
 - 👯 **Open to Collaboration:** Projects involving **Modern UI/UX**, **Glassmorphism**, and **React-based** applications.
 - 🤝 **Focus Area:** Advanced **System Design** and Cloud Scalability.
 - 🌱 **Learning Path:** Backend architectures while preparing for my **MCA entrance (June 2026)**.
@@ -36,6 +37,21 @@
 
 ---
 
+### 📂 Featured Projects
+
+| Project Details | Live Preview | Source Code |
+| :--- | :---: | :---: |
+| **[NEXUS](https://realheronadeem.netlify.app/)** <br> *The Integrated Multi-Utility Web Ecosystem* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://realheronadeem.netlify.app/) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
+| **[Aivox AI](#)** <br> *Next-generation AI solutions platform* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](#) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
+| **[Apex Game Pro](https://apexgamepro.vercel.app/)** <br> *Advanced Gaming Portal & Web Application* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://apexgamepro.vercel.app/) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
+| **[NexPlay Pro](https://nexplaypro.vercel.app/)** <br> *Modern Entertainment & Gaming Platform* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexplaypro.vercel.app/) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
+| **[NEXUS Auth Portal](https://nexusloginrhn.vercel.app/)** <br> *Secure Authentication Gateway for NEXUS* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexusloginrhn.vercel.app/) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
+| **[VidGo](https://vidgo-tmmz.onrender.com/)** <br> *Dynamic Video Streaming & Media Application* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vidgo-tmmz.onrender.com/) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
+
+*(Note: Aap baad mein `#` ko apne GitHub repos ke actual link se replace kar sakte hain jahan Source Code likha hai)*
+
+---
+
 ### 💎 Core 3D Skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +66,7 @@
 | **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
 | **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) |
-| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
+| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
 | **Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) |
 
 ---
