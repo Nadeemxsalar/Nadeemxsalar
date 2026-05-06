@@ -49,8 +49,6 @@
 | **[VidGo](https://vidgo-tmmz.onrender.com/)** <br> *Dynamic Video Streaming & Media Application* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vidgo-tmmz.onrender.com/) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
 | **[Campus Pulse](https://campuspulse-tvyb.onrender.com/)** <br> *Interactive Student & Campus Management Portal* | [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://campuspulse-tvyb.onrender.com/) | [![GitHub Repo](https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
 
-*(Note: Aap baad mein `#` ko apne GitHub repos ke actual link se replace kar sakte hain jahan Source Code likha hai)*
-
 ---
 
 ### 💎 Core 3D Skills
